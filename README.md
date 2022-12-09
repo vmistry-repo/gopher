@@ -1,2 +1,2 @@
-# gopher
-GoLang realted code snippets 
+# Gopher
+GoLang realted code snippets, design-patterns and package usage examples 
